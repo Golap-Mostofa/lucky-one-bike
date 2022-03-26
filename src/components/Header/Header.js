@@ -7,7 +7,7 @@ const Header = () => {
         <div>
            <nav >
                <div className='header'>
-                   <h2>My bicke ecomarch webpage</h2>
+                   <h1>My bicke ecomarch webpage</h1>
                    <div>
                    <a href="/shop">shop</a>
                    <a href="/orders">orders</a>
