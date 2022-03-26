@@ -15,7 +15,7 @@
 
 }
 .product-container p{
-    color: rgb(70, 0, 0);
+    color: rgb(83, 30, 30);
     font-weight: 700;
     font-size: 15px;
    
@@ -35,7 +35,7 @@
 }
 .btn-cart{
     width: 100%;
-    background-color: coral;
+    background-color: rgb(248, 86, 23);
     border-radius: 0px 0px 15px 15px;
     border: none;
     position: absolute;
@@ -43,12 +43,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: #ffffff;
 }
 .btn-cart p{
    padding: 0 10px;
+   color: #ffffff;
 }
 .btn-cart:hover{
-    background-color: rgb(151, 46, 8);
+    background-color: orange;
     
     
 }
