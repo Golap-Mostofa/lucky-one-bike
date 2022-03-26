@@ -1,9 +1,9 @@
 .header{
     height: 80px;
-    background-color: #3f0000;
+    background-color: #7c920b;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
    
     /* padding-left: 140px;
     padding-right: 140px; */

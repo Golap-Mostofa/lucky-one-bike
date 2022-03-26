@@ -13,7 +13,7 @@ const Products = () => {
     },[])
 
     const hendelAddToCart=(props)=>{
-      const newCard = [productName,props]
+      const newCard = [...productName,props]
       setproductName(newCard)
     }
 

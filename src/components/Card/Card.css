@@ -1,8 +1,54 @@
 .order-samary{
     position: sticky;
     top: 0;
+   
+    padding-left: 10px;
 }
-.order-samary h4 p{
-    color: aliceblue;
-    font-size: 1em;
+.order-samary{
+    color: rgb(0, 83, 32);
+   
+}
+.order-samary h4{
+    color: darkslategrey;
+}
+.samary{
+    border-bottom: 2px solid black;
+}
+.product-info div img{
+    width: 50px;
+
+    border-radius: 5px;
+    box-shadow:10px lightgrey;
+}
+.product-info p{
+    color: rgb(22, 9, 26);
+    font-weight: 700;
+
+}
+.item-logo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.icone{
+    color: rgb(255, 35, 35);
+    font-size: 1.5em;
+}
+.order-samary button a {
+text-decoration: none;
+color: aliceblue;
+}
+.btn-group button{
+    border: none;
+    background-color: rgb(138, 0, 0);
+    padding: 6px;
+}
+#b1{
+    color: rgb(15, 66, 5);
+}
+.btn-group{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px;
 }
