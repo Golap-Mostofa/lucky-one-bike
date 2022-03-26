@@ -13,6 +13,14 @@
     background-color: #ffffff;
 
 }
+
+.container{
+    margin-left: 50px;
+}
+.container h2{
+    color: rgb(0, 150, 236);
+}
+
 @media only screen and (max-width: 600px) {
     .card-products {
       

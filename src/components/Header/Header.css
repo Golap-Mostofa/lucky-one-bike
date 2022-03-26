@@ -1,6 +1,6 @@
 .header{
-    height: 80px;
-    background-color: #7c920b;
+    height: 120px;
+    background-color: #ffc1a0;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -10,8 +10,8 @@
     
 }
 .header h1{
-    color: #ffffff;
-    font-size: 25px;
+    color: #014cc5;
+    font-size: 35px;
 }
 
 .header div a{
