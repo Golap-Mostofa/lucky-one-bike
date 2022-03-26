@@ -30,8 +30,8 @@ const Card = (props) => {
                  } )
             }
            <div className="btn-group">
-           <button id='b1' onClick={clearData}><a href="">Select</a></button>
-           <button ><a href="">clear all</a></button>
+           <button className='btn1' onClick={clearData}><p>Select</p></button>
+           <button className='btn2'><a href="">clear all</a></button>
            </div>
         </div>
     );

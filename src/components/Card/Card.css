@@ -40,15 +40,18 @@ color: aliceblue;
 }
 .btn-group button{
     border: none;
-    background-color: rgb(138, 0, 0);
-    padding: 6px;
+    /* background-color: rgb(138, 0, 0); */
+    padding: 0 20px;
+    margin-top: 29px;
 }
-#b1{
-    color: rgb(15, 66, 5);
+.btn1{
+    background-color: rgb(15, 66, 5);
+}
+.btn2{
+    background-color: rgb(218, 0, 0);
 }
 .btn-group{
     display: flex;
     justify-content: space-between;
-    padding: 20px;
-    margin: 20px;
+    
 }
