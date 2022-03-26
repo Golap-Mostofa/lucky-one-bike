@@ -1,6 +1,6 @@
-# etting Started with Create React App
+# simpole-ecomarce-page
 
-This project was bootstrapped with [my-project-link](https://github.com/facebook/create-react-app).
+netlify live project link [my-project-link](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
