@@ -1,6 +1,6 @@
 # simpole-ecomarce-page
 
-netlify live project link [my-project-link](https://github.com/facebook/create-react-app).
+netlify live project link [my-project-link](https://charming-horse-045b9a.netlify.app/).
 
 ## Available Scripts
 
